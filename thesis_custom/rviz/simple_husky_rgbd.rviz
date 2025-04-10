@@ -130,15 +130,15 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        camera_link:
+        front_realsense:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        camera_link_gazebo:
+        front_realsense_gazebo:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        camera_link_lens:
+        front_realsense_lens:
           Alpha: 1
           Show Axes: false
           Show Trail: false
